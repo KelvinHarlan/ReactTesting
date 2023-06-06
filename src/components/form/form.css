@@ -1,0 +1,21 @@
+form{
+    display: flex;
+
+}
+
+.input-box{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 50px;
+    width: 100%;
+    max-width: 500%;
+}
+
+.input-box input{
+    width: 100%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 20px;
+}
